@@ -25,10 +25,10 @@ const Menu = () => {
   };
   return (
     <>
-      <motion.div variants={textVariant()}>
+      <div>
         <p className={styles.sectionSubText}>Découvrez notre menu</p>
         <h2 className={styles.heroHeadText}>MENU.</h2>
-      </motion.div>
+      </div>
       <div className="mt-5 sm:flex-wrap sm:flex grid grid-cols-2 justify-center ">
         {categories.map((category, index) => {
           return (

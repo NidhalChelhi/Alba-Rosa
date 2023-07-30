@@ -12,10 +12,10 @@ const About = () => {
     <>
       <div className="sm:flex mx-auto max-w-7xl px-6 lg:px-8 items-center">
         <div className="pb-10 pr-5">
-          <motion.div variants={textVariant()}>
+          <div>
             <p className={styles.sectionSubText}>Qui sommes-nous ?</p>
             <h2 className={styles.heroHeadText}>À PROPOS.</h2>
-          </motion.div>
+          </div>
           <p className="mt-6 text-lg leading-8  ">
             Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui
             lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat

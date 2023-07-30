@@ -8,10 +8,10 @@ import ProductCard from "./ProductCard";
 const Promo = () => {
   return (
     <>
-      <motion.div variants={textVariant()}>
+      <div>
         <p className={styles.sectionSubText}>Découvrez nos meilleurs plats</p>
         <h2 className={styles.heroHeadText}>PLUS VENDU.</h2>
-      </motion.div>
+      </div>
 
       <div id="products" className="mt-10 flex flex-wrap gap-7">
         {products
