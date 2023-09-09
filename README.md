@@ -36,10 +36,6 @@ Check out the live demo of Alba Rosa [here](https://albarosa.vercel.app).
 
 Contributions are welcome! Feel free to open issues or pull requests.
 
-## License
-
-This project is not licensed.
-
 ---
 
-Created by [Nidhal Chelhi](https://nidhalchelhi.vercel.app)
+Created with 🤍 by: [Nidhal Chelhi](https://nidhalchelhi.vercel.app)
