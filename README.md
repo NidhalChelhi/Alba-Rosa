@@ -1,3 +1,6 @@
+![Logo](https://github.com/NidhalChelhi/Alba-Rosa/blob/main/src/assets/AR_logo.svg)
+
+
 # Alba Rosa
 
 Experience AlbaRosa, a next-level restaurant lounge where dining meets digital innovation. Scan the unique table QR code, access our digital menu, and effortlessly order from your phone. Elevate your dining experience with AlbaRosa's seamless fusion of technology and gastronomy.
