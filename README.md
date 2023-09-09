@@ -38,4 +38,4 @@ Contributions are welcome! Feel free to open issues or pull requests.
 
 ---
 
-Created with 🤍 by: [Nidhal Chelhi](https://nidhalchelhi.vercel.app)
+Made with 🤍 by: [Nidhal Chelhi](https://nidhalchelhi.vercel.app)
