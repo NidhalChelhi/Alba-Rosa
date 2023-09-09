@@ -7,17 +7,20 @@ Check out the live demo of Alba Rosa [here](https://albarosa.vercel.app).
 
 ## Screenshots
 
-![Hero Section](screenshots/Hero.png)
-*Screenshot of the Hero section in Auto Glimpse*
+![Hero Section](screenshots/HeroSection.png)
+*Screenshot of the Hero section*
 
-![Car Catalogue](screenshots/CarsCatalogue.png)
-*Screenshot of the Car Catalogue section in Auto Glimpse*
+![Food Categories](screenshots/FoodCategories.png)
+*Screenshot of the Food Categories section*
 
-![Car Catalogue](screenshots/CarDetails.png)
-*Screenshot of the Car Details mondal in Auto Glimpse*
+![Menu Section](screenshots/MenuSection.png)
+*Screenshot of the Menu Section mondal*
 
-![Footer](screenshots/Footer.png)
-*Screenshot of the Footer section in Auto Glimpse*
+![Discounted Products](screenshots/PromoSection.png)
+*Screenshot of the Discounted Products section*
+
+![About Us](screenshots/AboutSectoin.png)
+*Screenshot of the About Us section*
 
 ## Installation
 
