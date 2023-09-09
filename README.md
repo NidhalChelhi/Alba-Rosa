@@ -19,7 +19,7 @@ Check out the live demo of Alba Rosa [here](https://albarosa.vercel.app).
 ![Discounted Products](screenshots/PromoSection.png)
 *Screenshot of the Discounted Products section*
 
-![About Us](screenshots/AboutSectoin.png)
+![About Us](screenshots/AboutSection.png)
 *Screenshot of the About Us section*
 
 ## Installation
