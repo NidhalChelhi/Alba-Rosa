@@ -8,6 +8,9 @@ Experience AlbaRosa, a next-level restaurant lounge where dining meets digital i
 
 Check out the live demo of Alba Rosa [here](https://albarosa.vercel.app).
 
+![Logo](https://github.com/NidhalChelhi/Alba-Rosa/blob/main/public/showcase/albarosa_showcase.png)
+
+
 ## Screenshots
 
 ![Hero Section](screenshots/HeroSection.png)
