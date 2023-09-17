@@ -1,11 +1,9 @@
-import { motion } from "framer-motion";
 import { styles } from "../styles";
 import { SectionWrapper } from "../hoc/";
-import { textVariant } from "../utils/motions";
 const stats = [
-  { name: "Full-time colleagues", value: "300+" },
-  { name: "Hours per week", value: "40" },
-  { name: "Paid time off", value: "Unlimited" },
+  { name: "En affaires depuis", value: "5+" },
+  { name: "Heures par semaine", value: "90" },
+  { name: "Combinaisons de saveurs", value: "Illimitée" },
 ];
 const About = () => {
   return (
@@ -26,7 +24,7 @@ const About = () => {
             {stats.map((stat) => (
               <div key={stat.name} className="flex flex-col-reverse">
                 <dt className="text-base text-gray leading-7 ">{stat.name}</dt>
-                <dd className="text-2xl text-gray font-bold leading-9 tracking-tight  ">
+                <dd className="text-2xl text-primary font-bold leading-9 tracking-tight  ">
                   {stat.value}
                 </dd>
               </div>

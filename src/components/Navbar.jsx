@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { styles } from "../styles";
 import { navLinks } from "../constants";
-import { ar_logo, menu, close, ar_logo1 } from "../assets";
+import { menu, close} from "../assets";
 
 const Navbar = () => {
   const [active, setActive] = useState("");
@@ -44,13 +44,13 @@ const Navbar = () => {
         >
           {scrolled ? (
             <img
-              src={ar_logo1}
+              src="/icons/symbol_dark.svg"
               alt="logo"
               className="w-12 h-12 object-contain"
             />
           ) : (
             <img
-              src={ar_logo}
+              src="/icons/symbol_light.svg"
               alt="logo"
               className="w-12 h-12 object-contain"
             />

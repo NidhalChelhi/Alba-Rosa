@@ -1,15 +1,13 @@
-import { motion } from "framer-motion";
 import { styles } from "../styles";
 import { SectionWrapper } from "../hoc/";
-import { textVariant } from "../utils/motions";
 import { products } from "../constants";
 import ProductCard from "./ProductCard";
 
 const Promo = () => (
   <>
     <div>
-      <p className={styles.sectionSubText}>Découvrez nos meilleurs plats</p>
-      <h2 className={styles.heroHeadText}>PLUS VENDU.</h2>
+      <p className={styles.sectionSubText}>Découvrez nos promotions</p>
+      <h2 className={styles.heroHeadText}>PROMOTIONS.</h2>
     </div>
 
     <div id="products" className="mt-10 flex flex-wrap gap-7">

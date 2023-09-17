@@ -1,4 +1,4 @@
-![Logo](https://github.com/NidhalChelhi/Alba-Rosa/blob/main/src/assets/AR_logo.svg)
+![Logo](https://github.com/NidhalChelhi/Alba-Rosa/blob/main/public/logo/logo_light.svg)
 
 
 # Alba Rosa
