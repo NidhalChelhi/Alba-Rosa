@@ -2,10 +2,10 @@
 
 
 # Alba Rosa
-Experience AlbaRosa, a next-level restaurant lounge where dining meets digital innovation. Scan the unique table QR code, access our digital menu, and effortlessly order from your phone. Elevate your dining experience with AlbaRosa's seamless fusion of technology and gastronomy.
+Experience **AlbaRosa**, a next-level restaurant lounge where dining meets digital innovation. Scan the unique table QR code, access our digital menu, and effortlessly order from your phone. Elevate your dining experience with AlbaRosa's seamless fusion of technology and gastronomy.
 
 
-## Demo
+## Live Demo
 Check out the live demo of Alba Rosa [here](https://albarosa.vercel.app).
 
 
