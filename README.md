@@ -1,4 +1,4 @@
-![Logo](https://github.com/NidhalChelhi/Alba-Rosa/blob/main/public/logo/logo_light.svg)
+<img src="https://github.com/NidhalChelhi/Alba-Rosa/blob/main/public/icons/icon-svg.svg" alt="Logo" height="100px">
 
 
 # Alba Rosa
@@ -9,7 +9,7 @@ Experience **AlbaRosa**, a next-level restaurant lounge where dining meets digit
 Check out the live demo of Alba Rosa [here](https://albarosa.vercel.app).
 
 
-![Logo](https://github.com/NidhalChelhi/Alba-Rosa/blob/main/public/showcase/albarosa_showcase.png)
+![Showcase](https://github.com/NidhalChelhi/Alba-Rosa/blob/main/public/showcase/albarosa_showcase.png)
 
 
 ## Technologies Used
