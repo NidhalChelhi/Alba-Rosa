@@ -71,7 +71,7 @@ const Footer = () => {
         
           <div className="flex flex-col md:flex-row items-center justify-center gap-4">
           <p className="text-sm leading-5 text-gray-500">
-            &copy; Made with ❤️ by: <a className="text-rose-700" href="https://nidhalchelhi.vercel.app" target="_blank" rel='noreferrer'>Nidhal Chelhi</a>
+            &copy; Made with ❤️ by: <a className="text-rose-700" href="https://www.nidhalchelhi.me" target="_blank" rel='noreferrer'>Nidhal Chelhi</a>
           </p>
          <div className="flex gap-x-2">
          {navigation.social.map((item) => (
