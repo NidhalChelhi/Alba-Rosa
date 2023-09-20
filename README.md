@@ -31,4 +31,4 @@ Contributions are welcome! Feel free to open issues or pull requests.
 
 ---
 
-Made with 🤍 by: [Nidhal Chelhi](https://nidhalchelhi.vercel.app)
+Made with 🤍 by: [Nidhal Chelhi](https://www.nidhalchelhi.me)
